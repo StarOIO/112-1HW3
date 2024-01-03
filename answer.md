@@ -1,12 +1,12 @@
 # 第3次作業-作業-HW3
 >
->學號：1234567
+>學號：111111206
 ><br />
->姓名：王小明
+>姓名：陳昱嘉
 ><br />
 >作業撰寫時間：180 (mins，包含程式撰寫時間)
 ><br />
->最後撰寫文件日期：2023/09/22
+>最後撰寫文件日期：2024/01/3
 >
 
 本份文件包含以下主題：(至少需下面兩項，若是有多者可以自行新增)
@@ -15,42 +15,12 @@
 
 ## 說明程式與內容
 
-開始寫說明，該說明需說明想法，
-並於之後再對上述想法的每一部分將程式進一步進行展現，
-若需引用程式區則使用下面方法，
-若為.cs檔內程式除了於敘述中需註明檔案名稱外，
-還需使用語法` ```語言種類 程式碼 ``` `，其中語言種類若是要用python則使用py，java則使用java，C/C++則使用cpp，
-下段程式碼為語言種類選擇csharp使用後結果：
+# 這段 CSS 代碼定義了一個名為 "userSuper" 的 HTML 類別的樣式。這個樣式設定了 vertical-align 屬性為 sub。
 
-```csharp
-public void mt_getResult(){
-    ...
-}
-```
+# 在 CSS 中，vertical-align 屬性用於垂直對齊元素的內容。在這個情況下，它被設置為 sub，代表下標。這意味著任何具有 "userSuper" 類別的 HTML 元素內的文本或內容將以下標的形式垂直對齊，顯示在正常基線稍微下方。
 
-若要於內文中標示部分網頁檔，則使用以下標籤` ```html 程式碼 ``` `，
-下段程式碼則為使用後結果：
-
-```html
-<%@ Page Language="C#" AutoEventWireup="true" ...>
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" ...>
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <div>
-        </div>
-    </form>
-</body>
-</html>
-```
-更多markdown方法可參閱[https://ithelp.ithome.com.tw/articles/10203758](https://ithelp.ithome.com.tw/articles/10203758)
+# 例如，在你的 HTML 文件中，你已經將這個類別應用於圍繞文本 "（AST）" 的 span 元素，因此該 span 內的文本將以下標的方式顯示。
 
 ## 個人認為完成作業須具備觀念
 
-開始寫說明，需要說明本次作業個人覺得需學會那些觀念，亦可作為學習筆記使用 (需寫成文章，需最少50字，並且文內不得有你、我、他三種文字)
+# 需要用到CSS的架構想法，這東西在上學期的時候有用到過，但那時候我是用過一下下，但對我來說好困難。
